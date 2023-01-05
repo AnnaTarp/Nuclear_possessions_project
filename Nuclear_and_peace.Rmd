@@ -143,8 +143,6 @@ USA %>%
 ```
 We can see on this visualization that Russia didn't really disarm their nuclear stockpile in connection with the first four disarmament agreements. But in 1987 can we see a drastic change. USA did as well. This was the  INF-agreement (Intermediate-range Nuclear Forces), and apparently after that, the Russian stockpile was reduced significantly. I want to mark that out on my visualization. For that i used the code from this webside: https://www.geeksforgeeks.org/change-font-size-for-annotation-using-ggplot2-in-r/  I also added all the years from 1945-2022 on the y-axis to make it easier to see the development throughout the years.  
 
-1963, 1968, 1972, 1979, 1987, 1991, 1993, 2002, 2010
-
 
 
 ```{r}
